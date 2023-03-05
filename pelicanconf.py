@@ -3,6 +3,13 @@ SITENAME = "Transport Data Commons"
 SITEURL = ""
 
 PATH = "content"
+ARTICLE_PATHS = [
+    "",
+    "event",
+]
+PAGE_PATHS = [
+    "page",
+]
 
 TIMEZONE = "Europe/Rome"
 
@@ -18,6 +25,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = False
+
+PAGE_URL = "{slug}"
+PAGE_SAVE_AS = "{slug}/index.html"
 
 # For pelican-bootstrap3
 PLUGINS = ["i18n_subsites"]
