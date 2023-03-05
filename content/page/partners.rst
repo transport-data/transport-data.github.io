@@ -20,7 +20,7 @@ In alphabetical order.
    * - CAF - Banco de desarrollo de América Latina
      - Catalina Vanoli
      - *Observer*
-   * - Chalmers University
+   * - Chalmers University; iTEM
      - Sonia Yeh
      - Data Architecture
    * - Climate Compatible Growth (funded by U.K. FCDO)
@@ -50,7 +50,7 @@ In alphabetical order.
    * - International Energy Agency (IEA)
      - Jacob Teter
      - *Observer*
-   * - International Institute for Applied Systems Analysis (IIASA)
+   * - International Institute for Applied Systems Analysis (IIASA); `International Transport Energy Modeling (iTEM) <https://transportenergy.org>`__
      - Paul Natsuo Kishimoto
      - Data Architecture
    * - International Road Federation
