@@ -73,6 +73,7 @@ publish:
 
 github: publish
 	ghp-import \
+	  --cname=transport-data.org \
 	  --push --no-history \
 	  --message="Generate Pelican site" \
 	  --branch=$(GITHUB_PAGES_BRANCH) \
