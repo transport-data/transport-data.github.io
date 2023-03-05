@@ -17,6 +17,7 @@ DEFAULT_LANG = "en"
 
 THEME = "pelican-bootstrap3"
 
+CC_LICENSE = "CC-BY-NC-ND"
 MENUITEMS = [
     ("Discuss", "https://github.com/orgs/transport-data/discussions"),
 ]
