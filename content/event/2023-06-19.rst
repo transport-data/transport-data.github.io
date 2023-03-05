@@ -1,0 +1,15 @@
+International Symposium on Transport Data & Modeling (ISTDM) 2023
+*****************************************************************
+
+:date: 2023-06-19
+:slug: istdm-2023
+
+→ `Symposium website <https://joint-research-centre.ec.europa.eu/events/istdm2023-2023-06-19_en>`__.
+
+**Date:** Monday 19 — Thursday 22 June, 2023.
+
+**Time:** to be announced.
+
+**Location:** Joint Research Centre of the European Commission, Ispra, IT.
+
+TDCI partners will give a plenary talk about the TDC during the opening day of the conference, i.e. Monday, 19 June.

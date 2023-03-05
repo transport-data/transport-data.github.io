@@ -35,6 +35,7 @@ To find out more:
 
 - Read a more detailed `background/concept note <{filename}/page/background.rst>`__
 - See current `partners <{filename}/page/partners.rst>`__ in the Initiative.
+- Attend an `event <{category}event>`__ where the TDC(I) is discussed and advanced.
 - Visit the `‘transport-data’ organization <https://github.com/transport-data>`__ on GitHub, and join `discussions <https://github.com/orgs/transport-data/discussions>`__ about data sources and measures.
 - Contact: …
 
