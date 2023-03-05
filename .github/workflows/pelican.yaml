@@ -16,6 +16,12 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Check out pelican-plugins
+      uses: actions/checkout@v3
+      with:
+        repository: getpelican/pelican-plugins
+        path: pelican-plugins
+
     - name: Check out pelican-themes
       uses: actions/checkout@v3
       with:
