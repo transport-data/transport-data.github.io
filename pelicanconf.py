@@ -17,6 +17,11 @@ DEFAULT_LANG = "en"
 
 THEME = "pelican-bootstrap3"
 
+MENUITEMS = [
+    ("Discuss", "https://github.com/orgs/transport-data/discussions"),
+]
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
