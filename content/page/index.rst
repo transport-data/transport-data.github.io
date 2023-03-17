@@ -37,7 +37,7 @@ To find out more:
 - See current `partners <{filename}/page/partners.rst>`__ in the Initiative.
 - Attend an `event <{category}event>`__ where the TDC(I) is discussed and advanced.
 - Visit the `‘transport-data’ organization <https://github.com/transport-data>`__ on GitHub, and join `discussions <https://github.com/orgs/transport-data/discussions>`__ about data sources and measures.
-- Contact: …
+- Contact: Kirsten Orschulok <kirsten.orschulok@giz.de> and Verena Knöll <verena.knoell@giz.de>.
 
 
 .. [1] building on the established `SDMX <https://sdmx.org/?page_id=2561>`__ (ISO 17369) standards.
