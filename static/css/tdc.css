@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+.navbar-default .navbar-brand {
+    background-color: white;
+    padding-top: 5px;
+}
+
+.navbar-default .navbar-brand:hover {
+    background-color: white;
+}
+
+.navbar-default {
+    background-color: rgb(0, 96, 100);
+    border-bottom: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: rgb(223, 246, 77);
+    font-weight: bold;
+    margin-left: 12px;
+    font-size: 16px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: rgb(0, 96, 100);
+    background-color: rgb(223, 246, 77);
+}
+
+.navbar-default .navbar-nav>li:not(.active)>a:hover {
+    border-radius: 6px;
+}
+
+
+.navbar-default .navbar-nav>.active>a {
+    color: rgb(0, 96, 100);
+    background-color: rgb(227, 249, 237);
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+    color: rgb(0, 96, 100);
+    background-color: rgb(227, 249, 237);
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: rgb(223, 246, 77);
+}
+
+body>.container {
+    padding-top: 15px;
+}
