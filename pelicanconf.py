@@ -10,6 +10,9 @@ ARTICLE_PATHS = [
 PAGE_PATHS = [
     "page",
 ]
+STATIC_PATHS = [
+    "static",
+]
 
 TIMEZONE = "Europe/Rome"
 
@@ -36,9 +39,17 @@ PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}/index.html"
 
 # For pelican-bootstrap3
+# BOOTSTRAP_THEME = "simplex"
+
 PLUGINS = ["i18n_subsites"]
 PLUGIN_PATHS = ["pelican-plugins"]
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+
+SITELOGO = "static/logo-text.svg"
+HIDE_SITENAME = True
+HIDE_SIDEBAR = True
+
+CUSTOM_CSS = "static/css/tdc.css"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
